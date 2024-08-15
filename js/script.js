@@ -7,7 +7,7 @@ function convertMoeda() {
     
     let resultado = real / dolar
     
-    alert("O valor do real em dolar é " + resultado )
+    alert("O valor do real em dolar é $ " + resultado )
 
     return false;
 }
